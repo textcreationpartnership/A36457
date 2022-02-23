@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen at White-Hall, February the fifteenth, 1690/1 by Henry Dove ....</title>
+            <author>Dove, Henry, 1640-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36457</idno>
+            <idno type="STC">Wing D2052</idno>
+            <idno type="STC">ESTC R3520</idno>
+            <idno type="EEBO-CITATION">11790658</idno>
+            <idno type="OCLC">ocm 11790658</idno>
+            <idno type="VID">49185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 529:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen at White-Hall, February the fifteenth, 1690/1 by Henry Dove ....</title>
+                  <author>Dove, Henry, 1640-1695.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by Her Majesties special command."</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XVIII, 23 --  Sermons.</term>
+               <term>Conduct of life --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49185:1"/>
+            <pb facs="tcp:49185:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED BEFORE THE QUEEN AT White-Hall, February the Fifteenth, 1690/1. By <hi>HENRY DOVE,</hi> D. D. Chaplain to Their Majeſties.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Publiſh'd by Her Majeſties Special Command.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Robert Clavel</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s <hi>Church Yard,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49185:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:49185:2"/>
+            <head>A SERMON Preach'd before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſal. 18. 23.</bibl> And I kept my ſelf from mine Iniquity.</q>
+            </epigraph>
+            <p>THis Pſalm contains a general Thankſ<g ref="char:EOLhyphen"/>giving, which <hi>David</hi> made unto God, after he had delivered him from his Potent Enemies, but eſpecially, from the hand of <hi>Saul,</hi> who was the moſt fu<g ref="char:EOLhyphen"/>rious and implacable of all his Adverſaries: And here, as he aſcribes his Deliverance wholly to the Divine Goodneſs, ſo he comforts him<g ref="char:EOLhyphen"/>ſelf
+<pb n="4" facs="tcp:49185:3"/> in his Innocency and Integrity, and aſcribes that alſo to GOD's reſtraining and aſſiſting Grace, which kept him back from that Iniquity to which he was ſtrongly tempted, and did not ſuffer him to do as the wicked would have done in the like Caſe.</p>
+            <p>What that particular Caſe and Sin was, is not here mention'd; but if we conſult the Hi<g ref="char:EOLhyphen"/>ſtory of his Life, it ſeems to referr to that known Inſtance, when <hi>Saul</hi> fell into his hands at <hi>Engedi;</hi> ſo that he could as eaſily have ſlain<note place="margin">1 Sam. 24. 4.</note> him, as he cut off the Skirt of his Garment; and yet he would not do ſuch an Unlawful and Wicked Act, no not to ſave his Life; and he gives the Reaſon in the Words before my Text; <hi>For I have kept the ways of the Lord,</hi>
+               <note place="margin">Ver. 21. 22.</note> 
+               <hi>and have not wickedly departed from my God. For all his Judgments were before me, and I did not put away his Statutes from me.</hi> As though he had ſaid, I had more regard to God's Righteous Laws, than to my private Intereſt, and when I had a fair Opportunity of putting an end to all my Troubles, I choſe rather to ſuffer, than to do evil: Had I conſulted Fleſh and Blood, or the Dictates of a Revengeful Spirit, I could eaſily have ſecured my own, by taking away his Life; but I had rather venture the utmoſt
+<pb n="5" facs="tcp:49185:3"/> Effects of <hi>Saul</hi>'s Hatred, than incur the Diſ<g ref="char:EOLhyphen"/>pleaſure of God, my great Deliverer and De<g ref="char:EOLhyphen"/>fender; the Fear of that could not make me forgo the Fear of him; and therefore, though I could not hinder <hi>Saul</hi>'s, yet thro' the Grace of God, reſtraining me, <hi>I kept my ſelf from mine Iniquity.</hi>
+            </p>
+            <p>
+               <hi>From mine Iniquity,</hi> that is, from the Sin, to which I was ſtrongly tempted; for <hi>ſome</hi> (ſaith he afterwards to <hi>Saul</hi> himſelf) <hi>bad me kill thee;</hi>
+               <note place="margin">1 Sam. 24. 10.</note> and which I was alſo prone to fall into, had not the fear of God kept me back; for ſo the <hi>Chaldee</hi> Paraphraſt explains the whole Verſe, <hi>I was perfect in his fear, and he was the Saver of my Soul from Sin, and from Iniquity.</hi>
+            </p>
+            <p>The Words thus Open'd and Explain'd, would afford us many uſeful Points, both for our Inſtruction and our Practice; the Chief of which I ſhall endeavour to ſpeak to, un<g ref="char:EOLhyphen"/>der theſe Three Heads, which ſeem to com<g ref="char:EOLhyphen"/>priſe their main Importance:</p>
+            <list>
+               <item>1. That there is ſome particular Sin, which every one may call in a more peculiar manner, <hi>His own Iniquity.</hi>
+               </item>
+               <pb n="6" facs="tcp:49185:4"/>
+               <item>2. That 'tis poſſible to keep our ſelves from ſuch Sins, as <hi>David</hi> did, by uſing the Means which <hi>David</hi> us'd.</item>
+               <item>3. What Helps and Directions are need<g ref="char:EOLhyphen"/>ful for this Purpoſe, that ſo we may learn to maintain our Integrity, and keep our ſelves from thoſe Sins, to which we are moſt inclineable.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> There is ſome particular Sin, to which every one is more prone than to another, of which he may ſay by way of <hi>Emphaſis,</hi> 'tis <hi>mine Iniquity,</hi> at which he may point with his finger, and ſay, <hi>That's it.</hi>
+            </p>
+            <p>But what that is, as 'tis certainly known to GOD, who <hi>ſearcheth our hearts,</hi> and <hi>ſpyeth out all our ways;</hi> ſo may every Man likewiſe know it himſelf, by <hi>Communing with his own heart,</hi> and<note place="margin">Pſal. 4. 4. Hag. 1. 5. 7.</note> 
+               <hi>conſidering his wayes:</hi> By looking into his own breaſt, and impartially examining his own Con<g ref="char:EOLhyphen"/>ſcience; by laying his Life to the Rule of his Conſcience, and meaſuring his Conſcience by the Rule of God's Law: This is the beſt Ex<g ref="char:EOLhyphen"/>aminer and Informer too, a Faithful Witneſs,
+<pb n="7" facs="tcp:49185:4"/> and a moſt Uncorrupt Judge, which will eaſi<g ref="char:EOLhyphen"/>ly diſcover and arraign, convict and condemn the Criminal, maugre all Endeavours to bribe or ſtifle the Evidence: This muſt needs find out the Sin, to which it is always privy, and a Mans own heart cannot chooſe but tell him what he loves beſt, and what he is moſt ad<g ref="char:EOLhyphen"/>dicted to.</p>
+            <p>That therefore there is greater Proclivity in every one to ſome peculiar Sins, is ſufficiently evident from every Mans private Conſcience: But how it comes to paſs that ſo it is, beſides the general Corruption of our Natures, which is common to us all, will be further manifeſt from theſe following Conſiderations.</p>
+            <p n="1">I. We are more inclineable to ſome Sins, than others, through our Natural Tempers and Complexions: For though the firſt Principles whereof we all conſiſt; I mean the Soul and Body, be vaſtly different in their firſt Frame and Make, the one being Heavenly, the other Earthy; yet ſuch is their near Conjunction, while we are in the Body, that they ſtrongly influence one another: <hi>The Corruptible Body</hi>
+               <note place="margin">Wiſd. 9. 15.</note> 
+               <hi>preſſeth down the Soul, and the Earthly Tabernacle weigheth down the Mind,</hi> (ſays <hi>Solomon,</hi> Wiſd. 9. 15.): And ſuch is the Predominancy of ſome
+<pb n="8" facs="tcp:49185:5"/> Elements and Humours, to which the Natu<g ref="char:EOLhyphen"/>raliſt aſcribes the Diverſity of Conſtitutions, that from thence alſo the Moraliſt derives the different Tempers of Mens Minds and Incli<g ref="char:EOLhyphen"/>nations: Thus the <hi>Sanguine</hi> inclines moſt to Luſt and Wantonneſs, Incontinence and In<g ref="char:EOLhyphen"/>temperance; the <hi>Cholerick</hi> to Anger and Paſ<g ref="char:EOLhyphen"/>ſion, Pride and Contention; the <hi>Melancholick</hi> to Envy, Diſcontent, Diſtruſt and Deſpair; the <hi>Phlegmatick</hi> to Covetouſneſs and Idleneſs, and Luke-warmneſs in Religion: So that, accor<g ref="char:EOLhyphen"/>ding to the different Conſtitutions of Mens Bo<g ref="char:EOLhyphen"/>dies, there ariſe different Inclinations in their Souls and Minds; and as it is the proper Buſi<g ref="char:EOLhyphen"/>neſs of Reaſon, to find out and reſtrain, ſo it is the Great Work of Grace and Religion, to ſubdue and mortifie the predominant Paſſion. From whence,</p>
+            <p n="2">II. We may further obſerve, That at ſome certain Periods of our Lives, we are more in<g ref="char:EOLhyphen"/>clineable to ſome Sins than others; that every Age of humane Life, has ſome peculiar Dar<g ref="char:EOLhyphen"/>ling, that commonly bears the ſway: Thus, in Old Age, Men generally are prone to ſuch as moſt conduce to their Temporal Advan<g ref="char:EOLhyphen"/>tage in the World, to hoard and heap up Riches, when they leaſt need 'em; and when
+<pb n="9" facs="tcp:49185:5"/> they are juſt leaving the World, they are com<g ref="char:EOLhyphen"/>monly moſt ſolicitous about it; in our Youth to ſuch, as moſt gratifie our ſenſual Appetites, and promote our Pleaſures; letting looſe the Reins to every inordinate Affection, and ruſhing headlong to Sin and Folly: Then we are apt to be covetous, and by conſequence crafty, and deceitful, and unjuſt; and now we are apt to be riotous and diſorderly, im<g ref="char:EOLhyphen"/>patient of Reproof, and heedleſs of Inſtructi<g ref="char:EOLhyphen"/>on; then ſelf-ended, and now ſelf-willed; then griping, and now profuſe; then carking and caring, as though we dream'd of an Immor<g ref="char:EOLhyphen"/>tality upon Earth; and now taking ſuch Courſes, as help to ſhorten Life, as though we were afraid of living too long: So true is that of the Pſalmiſt, which he backs with a ſtrong Aſſeveration, <hi>Verily every Man living</hi>
+               <note place="margin">Pſal. 39. 5.</note> 
+               <hi>in his beſt Eſtate, is altogether Vanity.</hi> But then,</p>
+            <p n="3">III. We are more inclineable to ſome Sins, than others, by reaſon of our Education, or our Company; the former being ſeldom ſo ſtrict and ſevere, but that it gives us oppor<g ref="char:EOLhyphen"/>tunity to ſee and hear in others, and permits likewiſe in our ſelves, a great many Follies and evil Cuſtoms, which commonly grow up with us: And the latter ſeldom ſo choice
+<pb n="10" facs="tcp:49185:6"/> and pure, (eſpecially in this Licentious Age) but that they have a great many Spots and Blemiſhes, and frequently foul Stains too; as is his Company, ſuch is the Man alſo; <hi>He that toucheth Pitch, ſhall be defiled therewith; and</hi>
+               <note place="margin">Eccl. 13. 1.</note> 
+               <hi>he that hath Fellowſhip with a proud Man, ſhall be like unto him;</hi> ſo great is the Power of Educa<g ref="char:EOLhyphen"/>tion, and the Influence of Converſe and Ex<g ref="char:EOLhyphen"/>ample: And yet by theſe things, Mens Minds and Manners are as much, if not more fa<g ref="char:EOLhyphen"/>ſhion'd, than by Nature it ſelf: From hence proceeds that great habit of Swearing, ſo com<g ref="char:EOLhyphen"/>mon among Children, as well as Men; they learn to blaſpheme the Name of God, before they are taught to call upon it, and that chiefly by hearing others ſwear: For what<g ref="char:EOLhyphen"/>ever Temptation there is to other Sins, from the Fleſh or the World, there is none in Na<g ref="char:EOLhyphen"/>ture imaginable for this, unleſs it be from the Devil, or from bad Example: And from hence too proceeds that which is grown ſo Notori<g ref="char:EOLhyphen"/>ous and Epidemical of late Years, <hi>viz.</hi> Lux<g ref="char:EOLhyphen"/>ury in Eating, Exceſs in Drinking, Profuſe<g ref="char:EOLhyphen"/>neſs in Apparel, and ſo great Miſpence of Time and of Eſtates, by immoderate Sports and Gaming: Men do as their Neighbours do, and then think their Numbers will excuſe
+<pb n="11" facs="tcp:49185:6"/>
+'em; their love to the Company inclines 'em to their Follies, and nothing more common, than to follow a Multitude to do evil.</p>
+            <p n="4">IV. We are prone to ſome Sins, more than others, through the ſeveral States and Condi<g ref="char:EOLhyphen"/>tions of Life, into which Providence does bring us, or from the different Profeſſions and Courſes of Life we take upon our ſelves: Thus for In<g ref="char:EOLhyphen"/>ſtance, When we are healthy and ſtrong, we are apt to forget God, and give our ſelves the Swing; and Sickneſs tempts us to be impatient towards Him: Proſperity for the moſt part, makes men proud, and abundance inſolent and wanton; and Adverſity tempts 'em to be envious and querulous, fraudulent and pilfer<g ref="char:EOLhyphen"/>ing: No ſooner do we wax fat as <hi>Jeſurun,</hi> but with him too, we kick and ſpurn at the Giver of all good things; and when we are brought low and afflicted, we are ready with <hi>Job</hi>'s fooliſh Wife, to curſe GOD and dye: From the Conſideration of this Danger, in each extream, it was, That <hi>Agur</hi> made that excellent Petition unto God, <hi>Give me neither</hi>
+               <note place="margin">Prov. 30. 8, 9.</note> 
+               <hi>Poverty nor Riches, but feed me with Food conve<g ref="char:EOLhyphen"/>nient for me; leſt I be full and deny thee, and ſay who is the Lord? Or leſt I be poor, and ſteal, and take the Name of my God in vain:</hi> And
+<pb n="12" facs="tcp:49185:7"/> thus alſo in the Church it has been obſerv'd, That in perillous Times and Perſecution, ſome have turned Apoſtates from the Faith, and run over to the Enemies Quarters; and through the Peace and Proſperity of the Church, ſome have grown careleſs and ſecure, others envi<g ref="char:EOLhyphen"/>ous and quarrelſome at all that is above 'em: The one has frighted Men to ſacrifice to Idols, and comply with any thing to ſave themſelves; the other has enſnar'd 'em to ſerve <hi>Mammon,</hi> Ambition, or their own Bellies, more than the Lord Jeſus. Again, there are more Tempta<g ref="char:EOLhyphen"/>tions to ſome Sins, than others, from the different Profeſſions or Courſes of Life, Men take upon themſelves; if they follow the Court, I need not tell you, what Temptations and Snares there are to divers Sins, and what dan<g ref="char:EOLhyphen"/>ger there is of falling into 'em, unleſs your Vows for Vertue, and a tender Regard to the Ho<g ref="char:EOLhyphen"/>nour which cometh of God onely, keep you upright: If they be liſted in the Camp, that tempts them moſt to Rapine and Violence, neglect of God's Worſhip, and Prophaneneſs: If they exerciſe Trading and Merchandiſe, they meet with greater Enticements to Lying and Cozening, Over-reaching and Unjuſt Dealing; and the Myſtery of ſome Trades, as bad Men
+<pb n="13" facs="tcp:49185:7"/> manage 'em, is a downright Myſtery of Ini<g ref="char:EOLhyphen"/>quity: If Husbandry, to Anxiety about the things of the World, a Diſtruſt of God's Pro<g ref="char:EOLhyphen"/>vidence, or murmuring againſt it: Nay, I could wiſh, that in the moſt ſacred Profeſ<g ref="char:EOLhyphen"/>ſion of all, there might be an Exception made in this Particular; but St. <hi>Paul</hi> tells us, that even in his days, <hi>Some Preach'd Chriſt out of Envy and Strife,</hi> ſome <hi>for filthy Lucre</hi> onely, as<note place="margin">Phil. 1. 15.</note> well as <hi>ſome out of Good Will:</hi> And Hiſtory<note place="margin">
+                  <hi>Titus,</hi> 1. 11.</note> will make it good, that in all the ſucceeding Ages of the Church, ſome through their Elo<g ref="char:EOLhyphen"/>quence in Preaching, have been betray'd to Pride and Vain-Glory, and through the Con<g ref="char:EOLhyphen"/>ceit of their Parts and Learning, and being cryed up by others, have been the chiefeſt Au<g ref="char:EOLhyphen"/>thors of thoſe Hereſies and Schiſms, that have all along infeſted the Church. From whence,</p>
+            <p n="5">V. I may add in the laſt place, That there are ſome particular Sins, to which Men are lya<g ref="char:EOLhyphen"/>ble, through Religion it ſelf: By which I mean, a falſe Opinion, or a ſtrong Perſwa<g ref="char:EOLhyphen"/>ſion, which they call by the Name of Re<g ref="char:EOLhyphen"/>ligion, though perhaps it be really no ſuch thing. Thus many Mens Confidence of their own way, is often attended with great Cen<g ref="char:EOLhyphen"/>ſoriouſneſs and Uncharitableneſs towards all
+<pb n="14" facs="tcp:49185:8"/> that differ from 'em, and a ſtrong Preſump<g ref="char:EOLhyphen"/>tion that it will excuſe all other Defects or Miſcarriages in themſelves: 'Tis no new thing we know, for two Perſons or Parties, to be mighty confident, even of both parts of a Contradiction, though at the ſame time we know alſo, that 'tis utterly impoſſible for both to be right: What then ſhall we do? Believe neither; ſo the Atheiſt indeed con<g ref="char:EOLhyphen"/>cludes, who laughs at all Religions alike, and hardens himſelf in his Impiety, becauſe the ſe<g ref="char:EOLhyphen"/>veral Profeſſors are not agreed about the true: But if we would lay by Prejudice, and judge indifferently in the Caſe, the Wrong may be generally known from the Right, by this ea<g ref="char:EOLhyphen"/>ſie and ſafe Rule; wherever there is leaſt Hu<g ref="char:EOLhyphen"/>mility, and leaſt Charity to be ſeen, there to be ſure is leaſt of the True Religion: And if we would ſeriouſly apply our ſelves to the Practiſe of theſe two Chriſtian Graces, the reſt of the Goſpel-Vertues would ſoon attend 'em, and thereby we ſhould make it evident to all Men, that we our ſelves are in the Right.</p>
+            <p>The time would fail me, ſhould I inſtance in all the Errours and Miſtakes of this na<g ref="char:EOLhyphen"/>ture; but that they are ſtrangely improv'd
+<pb n="15" facs="tcp:49185:8"/> by ſome Opinions more than others, will ap<g ref="char:EOLhyphen"/>pear from thoſe of the <hi>Roman</hi> Communion chiefly, who muſt needs by their Principles, be not onely more forward than others, to Un-Chriſtian all the World beſides, but alſo neg<g ref="char:EOLhyphen"/>lect to be true Chriſtians themſelves; their Superſtition about ſmaller things, eating out their Zeal and Care of the weightier Matters, their Doctrines about Mortal and Venial Sins, Confeſſion and Penance, Indulgences, Purga<g ref="char:EOLhyphen"/>tory, and the like; bolſtering up their Proſelytes in a Carnal Security, and quite undermining and deſtroying the Neceſſity of an Holy Life. And thus we know by a ſad Experience, that there are ſome Principles among 'em, which lead Men to be ſeditious and turbulent, per<g ref="char:EOLhyphen"/>fidious and inhuman; ſuch as theſe I mean, That Faith is not to be kept with Hereticks, (and every one is ſuch with them, who pro<g ref="char:EOLhyphen"/>teſts againſt their Erroneous or Wicked Tenets) that the End legitimates the Means, That a good Intention juſtifies an evil Action, That 'tis lawful to do whatever will advance, or to deny any thing that may prejudice their <hi>own Cauſe,</hi> (for we ſhould do 'em too much Honour to call it Catholick.) I will not in<g ref="char:EOLhyphen"/>deed ſay, that all of that Communion will
+<pb n="16" facs="tcp:49185:9"/> profeſſedly own, at this time eſpecially, theſe and the like Doctrines, there is ſufficient rea<g ref="char:EOLhyphen"/>ſon why they ſhould not; nor yet will I ſay, that all believe 'em, though then I know not how to call 'em Members of that Church, which hath aſſerted 'em with all the Argu<g ref="char:EOLhyphen"/>ments of their moſt Celebrated Doctors: And if there be any ſuch among 'em, as neither be<g ref="char:EOLhyphen"/>lieve nor practiſe 'em, they ſeem to have gain'd one of the hardeſt Conqueſts in the World, e<g ref="char:EOLhyphen"/>ven to have kept themſelves from that Iniqui<g ref="char:EOLhyphen"/>ty, which the very Principles of their Religion did prompt and perſwade them to.</p>
+            <p>And thus having ſhewn, how it comes to paſs, That every one is inclin'd to ſome Sin or other, which he may call in a more peculiar manner, <hi>His own Iniquity,</hi> I leave the Particu<g ref="char:EOLhyphen"/>lars to the Search of every Mans private Con<g ref="char:EOLhyphen"/>ſcience, (God knoweth, and your own hearts know which is yours) and ſo proceed to the</p>
+            <p>2. Prop. <hi>That 'tis poſſible to keep our ſelves from ſuch Sins as</hi> David <hi>did;</hi> who profeſſes here of himſelf in great ſincerity, That he had kept himſelf from that <hi>Iniquity,</hi> to which he was ſtrongly tempted, and which he was prone to fall into.</p>
+            <pb n="17" facs="tcp:49185:9"/>
+            <p>And there is none of us all but may go and do likewiſe, if we be willing to follow his good Example; by cheriſhing the Grace that is free<g ref="char:EOLhyphen"/>ly given us of God, and remembring the Vows we have ſo often made Him; by uſing the Means, and obſerving the Method preſcribed in His Word; by conſulting the Dictates of calm Reaſon, and ſound Religion, and a well in<g ref="char:EOLhyphen"/>formed Conſcience; by conſidering the Conſe<g ref="char:EOLhyphen"/>quence of all ſuch <hi>Darling Sins,</hi> and asking our ſelves that ſober Queſtion, <hi>What we ſhall do in the end thereof?</hi> In a Word, by maintaining, as <hi>David</hi> did, a mean Opinion of our ſelves, an humble Dependance upon God, and by keep<g ref="char:EOLhyphen"/>ing his Judgments and his Fear before us. This will certainly ſecure us, if not from the Temp<g ref="char:EOLhyphen"/>tation, at leaſt from the Compliance, and Com<g ref="char:EOLhyphen"/>miſſion of the Sin; it may importune us, but it cannot prevail againſt us; it may ſollicite our Conſent, but it cannot gain in upon us, ſo as to lead us Captive at its pleaſure, deliberate<g ref="char:EOLhyphen"/>ly to commit it, and habitually to practice it.</p>
+            <p>But of this I ſhall ſpeak more particularly by and by, and onely mention it here, becauſe I find it ſo common for Men to palliate or excuſe their Sins, either from the ſtrength of the Temptati<g ref="char:EOLhyphen"/>on, or from their own Weakneſs, or from ſome
+<pb n="18" facs="tcp:49185:10"/> fatal Impulſe, and what is the genuine Off-ſpring of their own Wills, they generally lay at the door of Neceſſity: <q rend="inline">Alas! What would you have 'em to do? 'Tis next to impoſſible to do otherwiſe; they inherit ſuch a weak and de<g ref="char:EOLhyphen"/>prav'd Temper, or they are born under ſuch a Malignant Aſpect, or they are caſt, by the De<g ref="char:EOLhyphen"/>cree of Heaven, into ſuch unhappy Circum<g ref="char:EOLhyphen"/>ſtances, that they are not Maſters of their own Actions: And how then can ye blame 'em for what is not in their Power and Choice to a<g ref="char:EOLhyphen"/>void? Or, How can that be called their Sin, which they are even neceſſitated to commit?</q> Thus, rather than take to themſelves the ſhame of their Sins, Men will belye their own Natures, aſperſe the Majeſty of God, the great Lover of Souls, and caſt a Scandal upon the Efficacy of His Grace and Goſpel: For how (I beſeech you) can Man be more excellent than a Brute, nay than a Stock or a Stone, unleſs he be a Rational and a Free Agent, endued with Underſtanding to diſcern, and a Will to chooſe the Good, and refuſe the Evil? Or, How can it conſiſt with the Juſtice and Goodneſs of God, to leave him un<g ref="char:EOLhyphen"/>der the Power of the moſt uncontroulable De<g ref="char:EOLhyphen"/>ſtiny, and yet puniſh him ſeverely, for not obey<g ref="char:EOLhyphen"/>ing his Laws? To what Purpoſe are all the Com<g ref="char:EOLhyphen"/>mands
+<pb n="19" facs="tcp:49185:10"/> and Exhortations, all the Invitations and Expoſtulations, the Promiſes and Threatnings in the Goſpel; nay, To what Purpoſe is our Preaching, and your Hearing, the Word, the Sacraments, and Prayer, which are the Means of Grace; if it be not poſſible by the Uſe of theſe Means, and through the Help of this Grace, to reſiſt Temptations, to reſtrain our inordinate Affections, to weaken and ſubdue, and at laſt to mortifie our Luſts, and ſo to keep our ſelves from that Iniquity, whatever it be, to which we are moſt prone?</p>
+            <p>Whatever therefore our Corrupt Hearts may pretend (as indeed we are all very favourable to our own Sins) we may eaſily Confute our ſelves, that there is no Impoſſibility, or Neceſ<g ref="char:EOLhyphen"/>ſity in the Caſe: For if the very Suſpition of Poiſon in the Cup, will make the Drunkard ſtar<g ref="char:EOLhyphen"/>tle and forbear it; if the Unclean Perſon will re<g ref="char:EOLhyphen"/>frain from his unlawful Embraces, when he is ſure to incur the Puniſhment of <hi>Zimri</hi> and <hi>Cosbi;</hi> if Men will paſs by their unjuſt Advantages, when their Credit and Repute ſhall be certainly blaſted by 'em; if they will defer an intended Wickedneſs, till they are favour'd with Secrecy, or encourag'd by Impunity; if the Preſence of a Child will awe 'em into good Manners, and
+<pb n="20" facs="tcp:49185:11"/> teach 'em ſo much Religion, at leaſt, as to pre<g ref="char:EOLhyphen"/>tend and counterfeit it; With what Face can they ſay, 'tis impoſſible for 'em to ceaſe from Evil, or to change a vitious Cuſtom; and that there is a Neceſſity of yielding to the Temptations, either of the World, the Fleſh, or the Devil, when 'tis plain, they may be all baffled and with<g ref="char:EOLhyphen"/>ſtood, upon leſſer Motives, than either the Grace of the Goſpel, or the Terrors of the Lord, the Apprehenſions of a Future Life, and a Judgment to come affords 'em. Which brings me to the laſt thing I propoſed to ſpeak to.</p>
+            <p>
+               <hi>Third,</hi> To ſubjoin ſuch <hi>Helps and Directions as are needful for this Purpoſe, that we may maintain our Integrity, and keep our ſelves from thoſe Sins, to which we are moſt inclineable.</hi>
+            </p>
+            <p>And here again the Method which Holy <hi>Da<g ref="char:EOLhyphen"/>vid</hi> made uſe of, gives us the firſt, and the beſt Direction; and that is,</p>
+            <p n="1">1. By Conſtant and Fervent Prayer, to im<g ref="char:EOLhyphen"/>plore the Divine Aid, and the continual Aſſi<g ref="char:EOLhyphen"/>ſtance of his Holy Spirit, that God would not only keep us from falling into 'em, but even turn our hearts from inclining to 'em, and help us to ſee our Folly, and our Danger: For alas! We are not able of our ſelves, to help our ſelves, not ſo much as to think a good Thought, much
+<pb n="21" facs="tcp:49185:11"/> leſs to reſiſt an evil Inclination, or a ſtrong Temptation; <hi>but our Sufficiency is of God: It is God</hi> (ſays the Pſalmiſt here) <hi>that girdeth me with</hi>
+               <note place="margin">Ver. 32.</note> 
+               <hi>ſtrength, and maketh my way Perfect; and through Chriſt, who ſtrengthens me</hi> (ſays St. <hi>Paul) I can do</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 4. 13.</note> 
+               <hi>all things.</hi> Without the Divine Grace and Aſſi<g ref="char:EOLhyphen"/>ſtance, it is impoſſible we ſhould be kept from any Sin, and without Prayer, there is no way imaginable of obtaining either: That was the vain Preſumption of the <hi>Pelagian</hi> Heretick, who thought to do it in his own Strength; and this is the too common, but dangerous Miſtake of ſome that would be thought more Orthodox Chriſtians, who think to have help without ask<g ref="char:EOLhyphen"/>ing: Hence thoſe manifold Exhortations and Commands in SS. to pray continually, to pray without ceaſing, to watch and pray: <hi>Watch ye</hi>
+               <note place="margin">Luk. 21. 36.</note> 
+               <hi>therefore, and pray always</hi> (ſays our Saviour); <hi>Con<g ref="char:EOLhyphen"/>tinue in Prayer, and watch in the ſame</hi> (ſays St. <hi>Paul</hi>);<note place="margin">Col. 4. 2.</note> 
+               <hi>Be ye ſober, and watch unto Prayer</hi> (ſays St. <hi>Peter</hi>):<note place="margin">1 Pet. 4. 7.</note> And for our Encouragement to pray, we have the greateſt Aſſurance that it ſhall be granted: <hi>Ask, and it ſhall be given you,</hi> ſays our Bleſſed<note place="margin">Luk. 11. 9.</note> Saviour, which he ſtrongly enforces, from the kindneſs of Earthly Parents; <hi>If ye then, being evil,</hi>
+               <note place="margin">Ver. 13.</note> 
+               <hi>know how to give good things to your Children, how much more ſhall your Heavenly Father give the Holy
+<pb n="22" facs="tcp:49185:12"/> Spirit to them that ask him?</hi> And, <hi>If any Man lack Wiſdom,</hi> ſays St. <hi>James, let him ask of God, and it ſhall</hi>
+               <note place="margin">Jam. 1. 5.</note> 
+               <hi>be given him:</hi> What more poſitive promiſes in the Book of God?</p>
+            <p>But here, if any one object, as I believe ſome are apt to do; if God be ſo liberal in granting His Grace and Spirit, how comes it then to paſs, that ſo many run into Sin, for want of it, who yet perhaps are frequently asking it? To this I Anſwer, That ſuch, either ask it not in Faith, that is relying on thoſe Ways, and uſing the Means, which God in His Word directs 'em to; or elſe they ask it not in Sincerity, and ſo draw near with their Mouths, while their Hearts are far from deſiring what they ask; as St. <hi>Auguſtine</hi> ſomewhere ſays of himſelf, <hi>That when in his Youth<g ref="char:EOLhyphen"/>ful Heat, he prayed againſt his beloved Sin, he did it ſo coldly, as though he was afraid, leſt God ſhould hear him:</hi> Or elſe they neglect to ſtir up the Grace of God, that is already beſtowed on them, and ceaſe to ſecond it with their own Endeavours. For,</p>
+            <p n="2">2. We muſt always remember, that tho' the Grace of God prevents us, that we may have a good Will, and works in us, when we have it, that ſo we may find Succeſs, yet in Vain do we expect the Continuance of His Help, without
+<pb n="23" facs="tcp:49185:12"/> our diligent Endeavours: While He aſſiſts our Weakneſs, He does not intend to encourage our Lazineſs; and therefore we are <hi>alſo to labour, and</hi>
+               <note place="margin">Col. 1. 29.</note> 
+               <hi>strive, according to his working, which worketh in us mightily;</hi> as the Apoſtle expreſſes it: 'Tis the Might of His Power that worketh in us, but we are to labour according to it, or elſe we provoke Him to withdraw it from us. And this I obſerve the rather, becauſe there are ſome in the World who think they have nothing to do, but only to ſit (as it were) with folded Arms, under the In<g ref="char:EOLhyphen"/>fluences of Heaven, and wait for their Work to be done to their hands, by the Almighty Power of God, and the ſole Operation of His Grace and Spirit; and though they would gladly be help'd, yet never ſtir a foot to help themſelves: But ſurely a Chriſtian, one that is in Covenant with Chriſt by Baptiſm, and a Member of his Body, ſhould know and conſider better things; and ſuch as accompany his Salvation, <hi>viz.</hi> That though God be always before hand with us, in giving us His Spirit, yet when it is once beſtow<g ref="char:EOLhyphen"/>ed, He expects our Compliance, and humble Concurrence with it, that we ſhould manage His Grace with Carefulneſs, and improve His Talents with Diligence, moſt unfeignedly aſcri<g ref="char:EOLhyphen"/>bing all the Glory to Himſelf, who is the ſole ef<g ref="char:EOLhyphen"/>ficient
+<pb n="24" facs="tcp:49185:13"/> Cauſe of all that is good in us. Where<g ref="char:EOLhyphen"/>fore, as we muſt always pray, that God would keep us from ſuch Sins, ſo we muſt labour alſo to keep our ſelves, ſince we have now no Ex<g ref="char:EOLhyphen"/>cuſe from Weakneſs, no Pretence for Diſability, having the Promiſe of Divine Aſſiſtance, and of further Supplies of Grace, upon uſing the for<g ref="char:EOLhyphen"/>mer well; for <hi>to him that hath ſhall be given,</hi> Mat. 13. 12. and <hi>He giveth more Grace,</hi> Jam. 4. 6. In order to which, I ſhall add;</p>
+            <p n="3">3. That we take care to avoid ſuch things, and decline ſuch Occaſions, as are moſt likely to ſnare us, and gain upon us, leſt one thing hook in another, and we be caught in the Gin, before we ſuſpect the Danger. The Neglect of this, was the Cauſe of the Firſt Sin, to which we owe our Inclinations to all the reſt; <hi>for</hi> Adam <hi>was not deceiv'd,</hi> ſays the Apoſtle, <hi>but the Woman being de<g ref="char:EOLhyphen"/>ceiv'd,</hi>
+               <note place="margin">1 Tim. 2. 14.</note> 
+               <hi>was in the Tranſgreſſion.</hi> The Man was not deceiv'd, till he hearkened to the Woman; nor was the Woman beguil'd, till ſhe liſtned to the Charmer; when once ſhe began to parly with the Tempter, to come near the Tree, and to contemplate and admire the Goodlineſs of the Fruit, ſhe was more than half overcome: The Command &amp; the Threatning of God [<hi>In the day thou eateſt, thou ſhalt dye the Death</hi>] are ſoon over<g ref="char:EOLhyphen"/>looked
+<pb n="25" facs="tcp:49185:13"/> and forgotten; and we preſently read, <hi>That ſhe took of the Fruit of the Tree, and did eat, and</hi>
+               <note place="margin">Gen. 3. 6.</note> 
+               <hi>gave alſo unto her Husband with her, and he did eat.</hi> And certainly 'tis a ſhrewd ſign we do not much deſire to keep our ſelves from the Sin, when we court or ſeek out the occaſion; nay, 'tis an Ar<g ref="char:EOLhyphen"/>gument rather, that we long to fulfill the Luſts of the Fleſh and of the Mind, when we encou<g ref="char:EOLhyphen"/>rage the Temptation and make proviſion for 'em.</p>
+            <p>
+               <hi>Tertullian</hi> tells us of a Chriſtian Woman, who going to ſee the Heathen Sacrifices and Shews, was immediately ſeized on by the Evil Spirit, to whom thoſe Sacrifices were made; and when the Holy Man, in the Name and Power of <hi>Chriſt,</hi> had caſt him out, and demanded the Reaſon, <hi>Why he meddled with one that was a Chriſtian?</hi> he replied, <hi>What did ſhe make there?</hi> He found her within his own Territories, in the midſt of his Votaries and Vaſſals, and ſo he took her for his own. The Application of the Story is briefly this: When we willingly ruſh upon a Tempta<g ref="char:EOLhyphen"/>tion, or contentedly cloſe with the occaſion, we give the Tempter the greateſt advantage againſt us; we do (as it were) proffer him our Service; and if God be no kinder to us than we are to our ſelves, to with-hold and reſtrain us by his
+<pb n="26" facs="tcp:49185:14"/> Grace, and reſcue us by his mighty Power, he leads us away Captive at his will and pleaſure. Let us then avoid the Occaſion, ſhun the Place, the Company, the Counſel and Converſe of Evil-doers, and <hi>abſtain</hi> (as the Apoſtle adviſes)<note place="margin">1. Theſſ. 5. 22.</note> even <hi>from all appearance of Evil.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Let no man think either the Evil and Malignity of Sin, or God's Hatred to it, to be leſs than it is; For he that is not truly ſen<g ref="char:EOLhyphen"/>ſible of the Evil of <hi>all Sin,</hi> will ſcarce be afraid of any; and he that does not believe that God really hates it, will never be ſolicitous, leſt he offend him by it. And indeed, theſe are com<g ref="char:EOLhyphen"/>monly the Grounds of Mens indulging them<g ref="char:EOLhyphen"/>ſelves in Sin; they frame ſpecious and plauſi<g ref="char:EOLhyphen"/>ble Arguments to excuſe themſelves, and with fallacious Reaſonings, endeavour to leſſen their Guilt, while they ſometime colour a downright wilful Sin, with the ſpecious Name of an Infir<g ref="char:EOLhyphen"/>mity, and then, with <hi>Lot,</hi> think their <hi>Zoar</hi> may be ſpar'd, becauſe it is but a little one: <hi>Is it not</hi>
+               <note place="margin">Gen. 19. 20.</note> 
+               <hi>a little one? And my Soul ſhall live.</hi> Or elſe they are willing to compound with the Almighty, and ready to ſay with <hi>Naaman, Only in this thing</hi>
+               <note place="margin">2 Kin. 5. 18.</note> 
+               <hi>the Lord pardon thy Servant;</hi> If God would diſ<g ref="char:EOLhyphen"/>pence with 'em in this or that beloved Luſt, He ſhall command 'em in all other things: or elſe
+<pb n="27" facs="tcp:49185:14"/> they preſume upon God's Mercy, without ſuffi<g ref="char:EOLhyphen"/>cient Warrant from his Word; and tho' they will confeſs themſelves to be Sinners (as indeed <hi>there is no man liveth and ſinneth not</hi>) yet they are apt to think, that God's Mercy being over all his Works, it will overlook theirs too; and tho' they know that he hates Sin, yet they fondly imagine he will be reconciled to them, though they venture to continue in it: 'Tis true in<g ref="char:EOLhyphen"/>deed, God will be reconciled to any Sinner, pro<g ref="char:EOLhyphen"/>vided that he repent; but 'tis every jot as true, that <hi>except he repent, he ſhall infallibly periſh:</hi> Nay, I doubt not to add, That whoſo refuſes to for<g ref="char:EOLhyphen"/>ſake his beloved Sin now, in hopes he ſhall do it hereafter, is, in all probability, nearer periſh<g ref="char:EOLhyphen"/>ing than he is repenting. Leſt any man there<g ref="char:EOLhyphen"/>fore ſhould thus perverſly argue himſelf into his own Ruin, let him ſeriouſly and ſadly conſider, that every Sin of it ſelf is of a condemning na<g ref="char:EOLhyphen"/>ture, and that God perfectly hates every evil way. And let no one preſume to ſay, My Sin is inconſiderable, and therefore I need not leave it; It is a far-better Conſequence, My Sin is in<g ref="char:EOLhyphen"/>conſiderable, and therefore I need not keep it: For, even the Smallneſs of the Sin, may in ſome caſes, enhaunce the Guilt, becauſe the Tempta<g ref="char:EOLhyphen"/>tion is leſs, the Motive of little or no value, and
+<pb n="28" facs="tcp:49185:15"/> the Reſiſtance eaſie: And ſurely it argues a ſtrange fondneſs and love of Sin, and a very light eſteem of God and our own Souls, when one poor contemptible Luſt ſhall be able to ex<g ref="char:EOLhyphen"/>clude or over-poiſe him in our Hearts. Settle therefore in your Souls a true Eſtimate of the Baſeneſs of all Sin, and as deep a ſence of God's Hatred to it; not that it may drive you to de<g ref="char:EOLhyphen"/>ſpond, but lead you to a quick and ſpeedy Re<g ref="char:EOLhyphen"/>pentance, and ſo to hope for a Share in his Mer<g ref="char:EOLhyphen"/>cy, through our Lord Jeſus Chriſt.</p>
+            <p>5. Be tender and cautious of violating your Conſciences, even in the ſmalleſt matter; for he that has once debauch'd his Conſcience even in leſſer Sins, 'tis much to be fear'd he will not ſtick at greater; for one Sin willingly admitted, brings on another, and Sin added to Sin, oft ends in Preſumption, <hi>Hardneſs of Heart, and Contempt of God's Word and Commandment.</hi> Now Conſcience of our Duty towards God, with an habitual and holy fear of offending him, is the beſt Preſer<g ref="char:EOLhyphen"/>vative in the World againſt all ſorts of Tempta<g ref="char:EOLhyphen"/>tions; and that Regret of Mind which is natural to Men upon the Commiſſion of Evil, and is ſupernaturally improved by the Grace of Chriſt, and the Influence of his Spirit, if Men do not wil<g ref="char:EOLhyphen"/>fully ſtifle and ſuppreſs it, is Armour of Proof
+<pb n="29" facs="tcp:49185:15"/> againſt the moſt furious Aſſaults of Sin or Satan. Remember the Example of holy <hi>Joſeph,</hi> who put by a ſtrong Temptation in all its charming Ad<g ref="char:EOLhyphen"/>dreſſes with this ſingle Queſtion, <hi>How can I do</hi>
+               <note place="margin">Gen. 39. 9.</note> 
+               <hi>this great Wickedneſs and ſin againſt God?</hi> Confront the boldeſt or the ſlieſt Tempter with the ſame Queſtion; if he cannot ſatisfie thy Conſcience, how thou may'ſt cloſe with him, and yet not ſin againſt God, he will quickly ceaſe his Requeſt: Or if he be ſo impudent, as to trouble thee ſtill, yet while this Thought is warm in thy Heart, ſo long as the Fear and Love of God are upper<g ref="char:EOLhyphen"/>moſt in thy Thoughts, thou may'ſt eaſily reſiſt even the Devil himſelf, and all his accurſed A<g ref="char:EOLhyphen"/>gents: But he that breaks the Force of his Con<g ref="char:EOLhyphen"/>ſcience, and has learnt to ſilence its Whiſpers and Checks in the Commiſſion of lighter and leſſer Evils, it is not to be doubted, but he will e're long be deaf to all its louder Reproofs. So great reaſon have we to be tender of our Conſci<g ref="char:EOLhyphen"/>ences; ſo great is our Security while we keep 'em undefiled through an <hi>awful Fear of God,</hi> a continual ſence of the Divine Preſence and In<g ref="char:EOLhyphen"/>ſpection, and an humble regard to that great Day of Accounts, when <hi>we muſt all appear before</hi>
+               <note place="margin">2 Cor. 5. 10.</note> 
+               <hi>the Judgment-Seat of Chriſt.</hi>
+            </p>
+            <pb n="30" facs="tcp:49185:16"/>
+            <p>To theſe may be added ſome more parti<g ref="char:EOLhyphen"/>cular and ſpecial Helps, for the ſame purpoſe, which I can only mention.</p>
+            <p n="1">I. That we ſet apart ſome Portion of our Time to examine our ſelves, and to ſtate the Accounts of our Souls; that we ſequeſter our ſelves a while from the Buſineſs and Buſtle of the World, and enter into our Cloſets, even into the inner Cloſets of our own Hearts, that ſo we may ſearch out <hi>the Sin which does ſo eaſily beſet us,</hi> and reſolve againſt thoſe Tem<g ref="char:EOLhyphen"/>ptations eſpecially which have formerly foil'd or overcome us.</p>
+            <p n="2">II. That we be diligent in reading and hearing the Word of <hi>GOD,</hi> and take more eſpecial notice of thoſe Places and Paſſages in Holy SS. whether Precepts, Examples, Commi<g ref="char:EOLhyphen"/>nations, or Judgments, which more imme<g ref="char:EOLhyphen"/>diately concern our own Caſe: For the Book of God is a Glaſs that flatters no man.</p>
+            <p n="3">III. That we exerciſe our ſelves at conve<g ref="char:EOLhyphen"/>nient Seaſons, with ſome piece of godly and pru<g ref="char:EOLhyphen"/>dent Diſcipline, ſuch as Abſtinence and Faſting, which are ſo often recommended in the SS. that
+<pb n="31" facs="tcp:49185:16"/> ſo by denying our ſelves ſometimes in things that are Lawful, we may learn by degrees, to tame our unruly Appetites and Wills, whenever they are tempted, or inclin'd to Unlawful Objects.</p>
+            <p n="4">IV. That we thankfully make uſe of the Means, which Chriſt himſelf hath appointed in the Sacrament of his Death, as a proper Reme<g ref="char:EOLhyphen"/>dy againſt our <hi>peculiar Sins:</hi> For this is not on<g ref="char:EOLhyphen"/>ly the Spiritual Food of our Souls, but Phyſick alſo, to cure their Diſtempers, and to prevent Relapſes: If it be duely received with unfeign<g ref="char:EOLhyphen"/>ed Contrition and Penitence going before, with ſerious Vows, a lively Faith, and univerſal Cha<g ref="char:EOLhyphen"/>rity accompanying it, it cannot fail to convey to us the Power of Chriſt's Death, the Vertue and Efficacy of his <hi>precious Blood;</hi> it will heal the Wounds that have been made in our Spirits, and keep 'em from fretting afterwards, and <hi>Cleanſe us</hi> at laſt, <hi>through the Supply of the Spirit of Chriſt,</hi> (which is never wanting to his own In<g ref="char:EOLhyphen"/>ſtitutions) from the Spot and the Pollution, from<note place="margin">1 Joh. 1. 7. Heb. 9. 14. 1 Pet. 1 19. Rev. 1. 5.</note> the Power and Dominion, from the Guilt, and from the Puniſhment <hi>of all Sin.</hi> Which God of his infinite Mercy grant to us all, for Jeſus Chriſt his ſake.</p>
+            <pb n="32" facs="tcp:49185:17"/>
+            <closer>To whom, with the Father and the Holy Ghoſt, Three Perſons and One God, be aſcribed of us and his whole Church, all Honour and Glory, now and ever<g ref="char:EOLhyphen"/>more.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49185:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
